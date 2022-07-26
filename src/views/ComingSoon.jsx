@@ -6,7 +6,7 @@ const ComingSoon = () => {
   <div className="container">
     <div className="row ipad-width">
       <div className="left-content">
-        <a href="index-2.html"><img className="md-logo" src="images/logo1.png" alt /></a>
+        <a href="/"><img className="md-logo" src="images/logo1.png" alt /></a>
         <h1>Coming soon</h1>
         <p>We are working hard to get back to you in</p>
         <div className="row">
