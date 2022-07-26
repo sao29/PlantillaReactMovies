@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PlantillaReactMovies/static/css/main.073c9b0a.css",
+    "main.js": "/PlantillaReactMovies/static/js/main.e644ff1c.js",
+    "static/js/787.716eef48.chunk.js": "/PlantillaReactMovies/static/js/787.716eef48.chunk.js",
+    "index.html": "/PlantillaReactMovies/index.html",
+    "main.073c9b0a.css.map": "/PlantillaReactMovies/static/css/main.073c9b0a.css.map",
+    "main.e644ff1c.js.map": "/PlantillaReactMovies/static/js/main.e644ff1c.js.map",
+    "787.716eef48.chunk.js.map": "/PlantillaReactMovies/static/js/787.716eef48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e644ff1c.js"
+  ]
+}
