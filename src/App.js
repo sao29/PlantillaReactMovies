@@ -1,7 +1,7 @@
 
 import "./App.css";
 import ListadoPeliculas from "./views/ListadoPeliculas";
-import {BrowserRouter, Route, Routes} from 'react-router-dom';
+import {HashRouter, Route, Routes} from 'react-router-dom';
 import Blog from "./views/Blog";
 import Celebrity from "./views/Celebrity";
 import Page404 from "./views/Page404";
@@ -11,7 +11,7 @@ function App() {
 
   return (
 
-    <BrowserRouter>
+    <HashRouter>
 			<Routes>
 				<Route path="/" element={<ListadoPeliculas/>}/>
 				<Route path="/blog" element={<Blog/>}/>
@@ -21,7 +21,7 @@ function App() {
         <Route path="/coming" element={<ComingSoon/>}/>
 			</Routes>
 			{/* Switch fue reemplazado por Routes */}
-		</BrowserRouter>
+		</HashRouter>
   );
 }
 
